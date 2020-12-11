@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <Button
+        android:id="@+id/button_close_307"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:drawableLeft="@drawable/ic_baseline_close_307" />
+
+    <ImageView
+        android:id="@+id/imageView3_307"
+        android:layout_width="182dp"
+        android:layout_height="160dp"
+        android:layout_marginLeft="115dp"
+        android:layout_marginTop="80dp"
+        android:src="@drawable/a13_307" />
+
+    <TextView
+        android:id="@+id/textView3_307"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="168dp"
+        android:layout_marginTop="246dp"
+        android:textColor="#070707"
+        android:textSize="25dp"
+        android:text="Tuấn Dũng" />
+
+    <TextView
+        android:id="@+id/textView4_307"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="290dp"
+        android:textSize="22dp"
+        android:textColor="#FF5722"
+        android:drawableRight="@drawable/icon_307"
+        android:text="0" />
+
+    <TextView
+        android:id="@+id/textView5_307"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="290dp"
+        android:textColor="#090909"
+        android:textSize="22dp"
+        android:text="| Khách hàng mới" />
+
+    <TextView
+        android:id="@+id/textView6_307"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="9dp"
+        android:layout_marginTop="340dp"
+        android:background="#E2E4E4"
+        android:gravity="left|center"
+        android:text="  Thông tin cá nhân"
+        android:textColor="#090909"
+        android:textStyle="bold"
+        android:textSize="24dp"
+        app:autoSizeTextType="none" />
+
+    <Button
+        android:id="@+id/button10_307"
+        android:layout_height="42dp"
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="330dp"
+        android:layout_marginTop="340dp"
+        android:background="#E2E4E4"
+        android:text="Đổi"
+        android:textAllCaps="false"
+        android:textColor="#3849A8"
+        android:textSize="16dp" />
+
+    <TextView
+        android:id="@+id/textView7_307"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_marginTop="381dp"
+        android:background="#EAFAF8"
+        android:gravity="left|center"
+        android:textColor="#848E8D"
+        android:textSize="18dp"
+        android:text="     Tên" />
+    <TextView
+        android:id="@+id/textView8_307"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_marginTop="411dp"
+        android:background="#EAFAF8"
+        android:gravity="left|center"
+        android:textColor="#070707"
+        android:textSize="20dp"
+        android:text="    Tuấn Dũng" />
+    <TextView
+        android:id="@+id/textView9_307"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_marginTop="453dp"
+        android:background="#EAFAF8"
+        android:gravity="left|center"
+        android:textColor="#848E8D"
+        android:textSize="18dp"
+        android:text="     Sinh nhật" />
+    <TextView
+        android:id="@+id/textView10_307"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_marginTop="483dp"
+        android:background="#EAFAF8"
+        android:gravity="left|center"
+        android:textColor="#070707"
+        android:textSize="20dp"
+        android:text="     18/11/2000" />
+    <TextView
+        android:id="@+id/textView11_307"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_marginTop="525dp"
+        android:background="#EAFAF8"
+        android:gravity="left|center"
+        android:textColor="#848E8D"
+        android:textSize="18dp"
+        android:text="     Số điện thoại" />
+    <TextView
+        android:id="@+id/textView12_307"
+        android:layout_width="match_parent"
+        android:layout_height="38dp"
+        android:layout_marginTop="555dp"
+        android:background="#EAFAF8"
+        android:gravity="left|center"
+        android:textColor="#070707"
+        android:textSize="20dp"
+        android:text="     1811505310307" />
+</RelativeLayout>

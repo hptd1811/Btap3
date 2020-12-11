@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/tintuc_307"
+        android:icon="@drawable/news_307"
+        android:title="Tin tức"/>
+    <item
+        android:id="@+id/dathang_307"
+        android:icon="@drawable/ship_307"
+        android:title="Đặt hàng"/>
+    <item
+        android:id="@+id/cuahang_307"
+        android:icon="@drawable/shop_307"
+        android:title="Cửa hàng"/>
+    <item
+        android:id="@+id/taikhoan_307"
+        android:title="Tài khoản"
+        android:icon="@drawable/user"/>
+</menu>
